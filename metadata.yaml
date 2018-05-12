@@ -21,6 +21,8 @@ creator:
     - http://de.wikipedia.org/wiki/Hugo_Bettauer
     - http://en.wikipedia.org/wiki/Hugo_Bettauer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35569#Die-Stadt-ohne-JudenEin-Roman-von--bermorgen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-03-13'
 gutenberg_type: Text
